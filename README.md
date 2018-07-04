@@ -6,3 +6,8 @@ For easy use of this program, without having to download an Ada compiler, you ma
 Check out the Example Output folder for pictures of the program's output and the user interface. The program should be pretty straightforward, that being said.
 
 I will also update the README with a list of tasks I still want to complete in order to get this program to it's final stages. It's by no means complete, I just ran out of time to work on it and didn't have the energy to finish what I started when I got the free time back. The tool was written using Ada '95, so feel free to contribute if you want. I'm also interested in making a variation of the tool using Python or Java so I can implement a GUI, but I haven't found time to convert the code.
+
+To Do:
+  - Output a file with race and class features. (Features.txt)
+  - Output a file with available spells, if applicable. This file will have a section for known and prepared spells as well. (Spells.txt)
+  - Inventory.txt
