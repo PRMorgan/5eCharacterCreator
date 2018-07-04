@@ -1,7 +1,7 @@
 # 5eCharacterCreator
 This is a tool that will allow you to go through character creation for a Fifth Edition Dungeons and Dragons character. The original purpose of this tool was to provide DMs with a means of character creation that doesn't take an hour and constant flipping between pages.
 
-For easy use of this program, without having to download an Ada compiler, you may simply use the NPC_Builder.exe file in this repository. I promise it won't bite!
+For easy use of this program, without having to download an Ada compiler, you may simply use the npc_builder.exe file in this repository. I promise it won't bite!
 
 Check out the Example Output folder for pictures of the program's output and the user interface. The program should be pretty straightforward, that being said.
 
