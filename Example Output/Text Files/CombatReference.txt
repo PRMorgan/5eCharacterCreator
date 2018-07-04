@@ -1,0 +1,127 @@
+Grayson Wolfbane Combat File
+---------------------------------
+
+----- Melee/Ranged -----
+STR-Based Weapon Attack (Not Proficient)
+   To hit: +3
+STR-Based Weapon Attack (Proficient)
+   To hit: +7
+
+DEX-Based Weapon Attack (Not Proficient)
+   To hit: -2
+DEX-Based Weapon Attack (Proficient)
+   To hit: +2
+
+Unarmed Strike
+   To hit: +7
+   Damage: 1+3 Bludgeoning
+
+----- Weapon Attacks -----
+Battleaxe
+   +7 to hit
+   1d8 + 7 damage
+Blowgun
+   +2 to hit
+   1d1 + 2 damage
+Club
+   +7 to hit
+   1d4 + 7 damage
+Dagger
+   +7 to hit
+   1d4 + 7 damage
+Dart
+   +2 to hit
+   1d4 + 2 damage
+Flail
+   +7 to hit
+   1d8 + 7 damage
+Glaive
+   +7 to hit
+   1d10 + 7 damage
+Greatclub
+   +7 to hit
+   1d8 + 7 damage
+Greatsword
+   +7 to hit
+   2d6 + 7 damage
+Halberd
+   +7 to hit
+   1d10 + 7 damage
+Handaxe
+   +7 to hit
+   1d6 + 7 damage
+Hand Crossbow
+   +2 to hit
+   1d6 + 2 damage
+Heavy Crossbow
+   +2 to hit
+   1d10 + 2 damage
+Javelin
+   +7 to hit
+   1d6 + 7 damage
+Lance
+   +7 to hit
+   1d12 + 7 damage
+Light Crossbow
+   +2 to hit
+   1d8 + 2 damage
+Light Hammer
+   +7 to hit
+   1d4 + 7 damage
+Longbow
+   +2 to hit
+   1d8 + 2 damage
+Longsword
+   +7 to hit
+   1d8 + 7 damage
+Mace
+   +7 to hit
+   1d6 + 7 damage
+Maul
+   +7 to hit
+   2d6 + 7 damage
+Morningstar
+   +7 to hit
+   1d8 + 7 damage
+Net
+   +2 to hit
+   DC 10 escape
+Pike
+   +7 to hit
+   1d10 + 7 damage
+Quarterstaff
+   +7 to hit
+   1d6 + 7 damage
+Rapier
+   +7 to hit
+   1d8 + 7 damage
+Scimitar
+   +7 to hit
+   1d6 + 7 damage
+Shortbow
+   +2 to hit
+   1d6 + 2 damage
+Shortsword
+   +7 to hit
+   1d6 + 7 damage
+Sickle
+   +7 to hit
+   1d4 + 7 damage
+Sling
+   +2 to hit
+   1d4 + 2 damage
+Spear
+   +7 to hit
+   1d6 + 7 damage
+Trident
+   +7 to hit
+   1d6 + 7 damage
+Warhammer
+   +7 to hit
+   1d8 + 7 damage
+Warpick
+   +7 to hit
+   1d8 + 7 damage
+Whip
+   +7 to hit
+   1d4 + 7 damage

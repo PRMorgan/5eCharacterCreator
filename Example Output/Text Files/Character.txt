@@ -1,0 +1,18 @@
+Grayson Wolfbane
+MEDIUM HILL DWARF FIGHTER (10)
+---------------------------------
+Total Health: 74
+Armor Class:   8 (Unarmored)
+Hit Dice:   10d10
+Speed:        25 ft.
+---------------------------------
+STR   DEX   CON   INT   WIS   CHA
+---------------------------------
+ 16    6     20    11    4     14
+(+3)  (-2)  (+5)  (+0)  (-3)  (+2)
+
+- I would recommend saving this document
+  with your character's name.
+
+- Every time the program is executed, it
+  will write over any pre-existing characters.
