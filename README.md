@@ -3,15 +3,33 @@
 **Important:**
 *For optimal use of this program, make sure you create a folder to store the npc_builder.exe file in. Upon close, the program creates three files and will store them wherever your original npc_builder.exe file is. In order to save some headache, just create a folder for your stuff. I promise you'll thank me later.*
 
+**Note:**
+*I just realized that I was looking at the wrong content for standard rules, so there is a lot of missing content. I'll try to work on expanding the arsenal when I can! Sorry about that!*
+
 This is a tool that will allow you to go through character creation for a Fifth Edition Dungeons and Dragons character. The original purpose of this tool was to provide DMs with a means of character creation that doesn't take an hour and constant flipping between pages.
 
-## How to use this tool
+## 1. Content Currently Available
+
+1. Races
+   - Dwarf
+   - Elf
+   - Halfling
+   - Human
+2. Classes
+   - Cleric
+   - Fighter
+   - Rogue
+   - Wizard
+   
+I will add more content as my free time allows!
+
+## 2. How to use this tool
 
 1. Download the `npc_builder.exe` file.
 2. Store the `npc_builder.exe` file in it's own folder somewhere you wont forget about it.
 3. Run the program by double clicking.
 
-## What to expect next (a step-by-step guide)
+## 3. What to expect next (a step-by-step guide)
 
 1. A black window will appear with a prompt that reads `Enter your character's name:`
   
@@ -41,7 +59,7 @@ This is a tool that will allow you to go through character creation for a Fifth 
 **Important:**
 _In order to ensure you do not lose a character sheet, make sure your rename the file. Every time you run the program, it will overwrite and pre-existing file of the same name **without warning!**_
 
-## Misc.
+## 4. Misc.
 
 Check out the `Example Output` folder for pictures of the program's output and the user interface. The program should be pretty straightforward, that being said.
 
