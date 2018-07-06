@@ -52,4 +52,5 @@ To Do:
     - Features.txt
   - Output a file with available spells, if applicable. This file will have a section for known and prepared spells as well.
     - Spells.txt
+    - This should end up looking similar to the `Skill.txt` file.
   - Implement a backgrounds feature
