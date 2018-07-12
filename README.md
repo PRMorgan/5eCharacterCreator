@@ -45,7 +45,7 @@ I will add more content as my free time allows!
    - NOTE: The program calculates bonuses based on race/class, so you don't have do that. In order for your character sheet to be accurate, make sure you aren't accidentally entering the final score.
 
 6. Next up is your health.
-   - NOTE: You must enter the total value for this. I couldn't get this to automatically add/reduce your CON modifier, so that's up to you.
+   - NOTE: You must enter the total value for this. I haven't gotten this to automatically add/reduce your CON modifier, so that's up to you.
    
 7. The last thing you get to do is choose your proficiencies. These will be provided based on your class, so you don't have to worry about making sure you've got an accurate listing.
 
