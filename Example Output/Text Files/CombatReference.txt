@@ -1,0 +1,127 @@
+Puff Combat File
+---------------------------------
+
+----- Melee/Ranged -----
+STR-Based Weapon Attack (Not Proficient)
+   To hit: +4
+STR-Based Weapon Attack (Proficient)
+   To hit: +10
+
+DEX-Based Weapon Attack (Not Proficient)
+   To hit: +0
+DEX-Based Weapon Attack (Proficient)
+   To hit: +6
+
+Unarmed Strike
+   To hit: +10
+   Damage: 1+4 Bludgeoning
+
+----- Weapon Attacks -----
+Battleaxe
+   +10 to hit
+   1d8 + 10 damage
+Blowgun
+   +6 to hit
+   1d1 + 6 damage
+Club
+   +10 to hit
+   1d4 + 10 damage
+Dagger
+   +10 to hit
+   1d4 + 10 damage
+Dart
+   +6 to hit
+   1d4 + 6 damage
+Flail
+   +10 to hit
+   1d8 + 10 damage
+Glaive
+   +10 to hit
+   1d10 + 10 damage
+Greatclub
+   +10 to hit
+   1d8 + 10 damage
+Greatsword
+   +10 to hit
+   2d6 + 10 damage
+Halberd
+   +10 to hit
+   1d10 + 10 damage
+Handaxe
+   +10 to hit
+   1d6 + 10 damage
+Hand Crossbow
+   +6 to hit
+   1d6 + 6 damage
+Heavy Crossbow
+   +6 to hit
+   1d10 + 6 damage
+Javelin
+   +10 to hit
+   1d6 + 10 damage
+Lance
+   +10 to hit
+   1d12 + 10 damage
+Light Crossbow
+   +6 to hit
+   1d8 + 6 damage
+Light Hammer
+   +10 to hit
+   1d4 + 10 damage
+Longbow
+   +6 to hit
+   1d8 + 6 damage
+Longsword
+   +10 to hit
+   1d8 + 10 damage
+Mace
+   +10 to hit
+   1d6 + 10 damage
+Maul
+   +10 to hit
+   2d6 + 10 damage
+Morningstar
+   +10 to hit
+   1d8 + 10 damage
+Net
+   +6 to hit
+   DC 10 escape
+Pike
+   +10 to hit
+   1d10 + 10 damage
+Quarterstaff
+   +10 to hit
+   1d6 + 10 damage
+Rapier
+   +10 to hit
+   1d8 + 10 damage
+Scimitar
+   +10 to hit
+   1d6 + 10 damage
+Shortbow
+   +6 to hit
+   1d6 + 6 damage
+Shortsword
+   +10 to hit
+   1d6 + 10 damage
+Sickle
+   +10 to hit
+   1d4 + 10 damage
+Sling
+   +6 to hit
+   1d4 + 6 damage
+Spear
+   +10 to hit
+   1d6 + 10 damage
+Trident
+   +10 to hit
+   1d6 + 10 damage
+Warhammer
+   +10 to hit
+   1d8 + 10 damage
+Warpick
+   +10 to hit
+   1d8 + 10 damage
+Whip
+   +10 to hit
+   1d4 + 10 damage
