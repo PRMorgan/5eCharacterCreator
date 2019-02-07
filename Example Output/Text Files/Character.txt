@@ -1,0 +1,21 @@
+Puff
+MEDIUM BRASS DRAGONBORN BARBARIAN (20)
+---------------------------------
+Total Health: 176
+Armor Class:  10 (Unarmored)
+Hit Dice:   20d12
+Speed:        30 ft.
+---------------------------------
+STR   DEX   CON   INT   WIS   CHA
+---------------------------------
+ 19    10    9     12    16    15
+(+4)  (+0)  (-1)  (+1)  (+3)  (+2)
+
+- I would recommend saving this document and all other
+  documents produced with your character's name.
+
+- Every time the program is executed, it
+  will write over any pre-existing characters.
+
+Ex) Gundren_Rockseeker.txt | Gundren_Skills.txt
+    Gundren_Features.Txt   | Gundren_Combat.txt

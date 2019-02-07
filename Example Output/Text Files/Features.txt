@@ -1,0 +1,73 @@
+Puff Features File
+---------------------------------
+
+Racial Features:
+----------------
+Draconic Ancestry: You have Draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage Resistance are determined by the dragon type, as shown in the table.
+Dragon     Damage Type  Breath Weapon
+Black      Acid         5 by 30 ft. line (Dex. save)
+Blue       Lightning    5 by 30 ft. line (Dex. save)
+Brass      Fire         5 by 30 ft. line (Dex. save)
+Bronze     Lightning    5 by 30 ft. line (Dex. save)
+Copper     Acid         5 by 30 ft. line (Dex. save)
+Gold       Fire         15 ft. cone (Dex. save)
+Green      Poison       15 ft. cone (Con. save)
+Red        Fire         15 ft. cone (Dex. save)
+Silver     Cold         15 ft. cone (Con. save)
+White      Cold         15 ft. cone (Con. save)
+
+Breath Weapon: You can use your action to exhale destructive energy. Your Draconic ancestry determines the size, shape, and damage type of the exhalation. When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your Draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your Proficiency Bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. After you use your breath weapon, you can’t use it again until you complete a short or Long Rest.
+Damage Resistance: You have Resistance to the damage type associated with your Draconic ancestry.
+
+Class Features:
+---------------
+BARBARIAN - PATH OF THE BERSERKER
+---------------------------------------
+| Lv | Feature(s)
+|----|---------------------------------
+|  1 | Rage
+|    | Unarmored Defense
+|----|---------------------------------
+|  2 | Reckless Attack
+|    | Danger Sense
+|----|---------------------------------
+|  3 | Primal Path
+|    | Frenzy
+|----|---------------------------------
+|  4 | Ability Score Improvement*
+|----|---------------------------------
+|  5 | Extra Attack
+|    | Fast Movement
+|----|---------------------------------
+|  6 | Mindless Rage
+|----|---------------------------------
+|  7 | Feral Instinct
+|----|---------------------------------
+|  8 | Ability Score Improvement*
+|----|---------------------------------
+|  9 | Brutal Critical (+1 die)
+|----|---------------------------------
+| 10 | Intimidating Presense
+|----|---------------------------------
+| 11 | Relentless
+|----|---------------------------------
+| 12 | Ability Score Improvement*
+|----|---------------------------------
+| 13 | Brutal Critical (+2 dice)
+|----|---------------------------------
+| 14 | Retaliation
+|----|---------------------------------
+| 15 | Persistent Rage
+|----|---------------------------------
+| 16 | Ability Score Improvement*
+|----|---------------------------------
+| 17 | Brutal Critical (+3 dice)
+|----|---------------------------------
+| 18 | Indomitable Might
+|----|---------------------------------
+| 19 | Ability Score Improvement*
+|----|---------------------------------
+| 20 | Primal Champion
+|----|---------------------------------
+* You must manually modify ability scores.
+  You have 2 points to allocate and scores cannot exceed 20.
