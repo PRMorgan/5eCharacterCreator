@@ -7,12 +7,6 @@
 -- Systems Reference Document (SRD)
 -- from Wizards of the Coast.
 
--- All information found in here is the
--- intellectual property of
--- Wizards of the Coast.
--- I do not own the rights to any of the
--- content found hereafter.
-
 -- Created by Patrick M
 -- Start Date: 8 March 2018
 -- Major Updates: 24 April 2018
