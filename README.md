@@ -7,12 +7,14 @@ This is a tool that will allow you to go through character creation for a Fifth 
 
 ## Table of Contents
 
-1. Content Avaiable
-2. How to use this tool
-3. What to expect next (a step-by-step guide)
-4. Misc.
-5. Compiling and building the code on your own
-6. Looking to contribute to the project?
+1. [Content Avaiable](#content)
+2. [How to use this tool](#howto)
+3. [What to expect next (a step-by-step guide)](#stepbystep)
+4. [Misc.](#misc)
+5. [Compiling and building the code on your own](#onyourown)
+6. [Looking to contribute to the project?](#contributing)
+
+<a name = "content"/>
 
 ## 1. Content Available
 
@@ -40,6 +42,8 @@ This is a tool that will allow you to go through character creation for a Fifth 
    - Warlock (Pact of the Fiend)
    - Wizard (School of Evocation)
 
+<a name = "howto"/>
+
 ## 2. How to use this tool
 
 1. Download the `npc_builder.exe` file.
@@ -47,6 +51,8 @@ This is a tool that will allow you to go through character creation for a Fifth 
 3. Run the program by double clicking.
 
 *Note: Rename the output files to make them distinct. Every time the proram is executed, it will overwrite any files it finds in the directory with the same name. It is the author's recommendation that all files be renamed to include the character's name. This would look something like "Gundren Rockseeker.txt," "Dave the Bard Features.txt," "MarrowMincer.skills," etc.*
+
+<a name = "stepbystep"/>
 
 ## 3. What to expect next (a step-by-step guide)
 
@@ -79,11 +85,14 @@ This is a tool that will allow you to go through character creation for a Fifth 
 **Important:**
 _In order to ensure you do not lose a character sheet, make sure you rename the file. Every time you run the program, it will overwrite any pre-existing file of the same name **without warning!**_
 
+<a name = "misc"/>
 ## 4. Misc.
 
 Check out the `Example Output` folder for pictures of the program's output and the user interface. The program should be pretty straightforward, that being said.
 
 I will also update the `README.md` with a list of tasks I still want to complete in order to get this program to it's final stages. It's by no means complete, I just ran out of time to work on it and didn't have the energy to finish what I started when I got the free time back. The tool was written using Ada '95, so feel free to contribute if you want. I'm also interested in making a variation of the tool using Python or Java so I can implement a GUI, but I haven't found time to convert the code.
+
+<a name = "onyourown"/>
 
 ## 5. Compiling and building the code on your own
 
@@ -117,6 +126,8 @@ Make sure you're in the directory with the .adb file, otherwise this won't work.
 
 If you want more resources to help use/learn Ada '95, [check out this website](http://archive.adaic.com/ASE/ase02_01/bookcase/ada_sh/lrm95/RM-TOC.html). I always reference it if I ever need anything Ada-related. It's very thourough and even provides example code so you can see syntax and style.
   
+<a name = "contributing"/>
+
 ## 6. Looking to contribute to the project?
   
 If you want to contribute to this code, you must make sure all content submitted follows the Systems Reference Document (SRD) provided by Wizards of the Coast. No code will be accepted if it includes material outside of the SRD. [The SRD can be found here](http://dnd.wizards.com/articles/features/systems-reference-document-srd).
