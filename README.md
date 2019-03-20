@@ -1,9 +1,9 @@
 # 5eCharacterCreator
 
 **Important:**
-*For optimal use of this program, make sure you create a folder to store the npc_builder.exe file in. Upon execution, the program creates three files and will store them wherever your original npc_builder.exe file is. In order to save some headache, just create a folder for your stuff. I promise you'll thank me later.*
+*For optimal use of this program, make sure you create a folder to store the npc_builder.exe file in. Upon execution, the program creates four files and will store them wherever your original npc_builder.exe file is. In order to save some headache, just create a folder for your stuff. I promise you'll thank me later.*
 
-This is a tool that will allow you to go through character creation for a Fifth Edition Dungeons and Dragons character. The original purpose of this tool was to provide DMs with a means of character creation that doesn't take an hour and constant flipping between pages.
+This is a tool that will allow you to go through character creation for a Fifth Edition Dungeons and Dragons character. The original purpose of this tool was to provide DMs with a means of character creation that doesn't take an hour and constant flipping between pages. This README was written with the intent to help those who may be interested in using the tool but have no programming experience.
 
 ## Table of Contents
 
@@ -70,7 +70,7 @@ This is a tool that will allow you to go through character creation for a Fifth 
 
 8. When you're all done entering your character's information, you'll see a basic version of the character sheet right there.
 
-9. Once the program is completed, head to the folder you stored it in and you'll find 3 files with various information:
+9. Once the program is completed, head to the folder you stored it in and you'll find 4 files with various information:
    - **Character.txt** will store the basic character sheet shown at the end of the program.
    - **CombatReference.txt** will provide a basic formula for calculating damage with STR and DEX based weappons, your spellcasting save DC and spell attack modifier (if applicable), and a list of your attack bonus and damage for every single weapon found in the standard rules.
    - **Features.txt** will store your characters features. These are based on their race and class and level.
@@ -91,7 +91,8 @@ This project was written using Ada '95 (as I'm sure you've gathered by now) so y
 
 Once you've got everything downloaded, write your Ada code into Adagide, save the file with the .adb extension, hit compile, then build, then run.
 
-Compiling, Building, and Running from the command line
+Compiling, Building, and Running from the command line:
+
 Make sure you're in the directory with the .adb file, otherwise this won't work.
 * Compile
 ```
@@ -147,7 +148,7 @@ If you're looking for ideas on what content you can contribute to this project, 
       * If the list includes all spells, there will be another box to designate which spells are known.
 3. Apply Acolyte background to the character
    * The Acolyte is the only background available in the SRD, so it should be applied to every character created.
-   * This will mess with proficiencies, since it automatically gives the character Insight and religion proficiencies. The user should be able to choose any other proficiencies in their list on top of those two.
+   * This will mess with proficiencies, since it automatically gives the character Insight and Religion proficiencies. The user should be able to choose any other proficiencies in their list on top of those two.
 4. Data validation loop for health input
    * This will calculate a max and a min health based on the character's level, class, and CON score. The min and max health values will then be used to restrict user health input. This way, there will be no chance of a level 3 Wizard having 803 HP.
 5. Modularize the code
@@ -163,20 +164,3 @@ If you're looking for ideas on what content you can contribute to this project, 
    * One of my dreams for this project is to implement a GUI. Unfortunately, I haven't had nearly as much time to allocate to this project as I wanted, so I haven't gotten around to implementing a GUI. There are some really adorably old-school GUIs that can be implemented in Ada '95 code.
 8. Java version
    * My next step is implementing this program using Java.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
